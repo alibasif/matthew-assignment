@@ -1,6 +1,6 @@
 # Sales Assignment
 
-The assignment project is developed in PHP. Download the project from [GIT]: (https://github.com).
+The assignment project is developed in PHP. Download the project from [GIT]: (https://github.com/alibasif/matthew-assignment).
 
 ### Implementation
 - Implemented a basket that acts like an order entity.
@@ -26,7 +26,7 @@ Download the project from the GIT Repository. Unzip the folder and place it in a
 ```
 ### Installation Steps
 
-1. Goto [GitHub]:(https://github.com)
+1. Goto [GitHub]:(https://github.com/alibasif/matthew-assignment)
 2. Download the project files
 3. Unzip folder
 4. Open command prompt
