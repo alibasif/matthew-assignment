@@ -13,8 +13,7 @@ The assignment project is developed in PHP. Download the project from [GIT]: (ht
 - On every basket, we can calculate **Total Amount**, **Delivery Charges** also can **Print** bill.
 
 ### Output:
-
-
+<img width="462" alt="image" src="https://github.com/alibasif/matthew-assignment/assets/93640702/e86bb037-296a-4172-b651-9852eb246223">
 
 ## Installation
 
