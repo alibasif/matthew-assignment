@@ -74,17 +74,17 @@ MATTHEW-ASSIGNMENT/
 ## Examples
 
 ```php
-$Order = new Order();
+$Basket = new Basket();
 
-# Add a product in the order
-$Order->AddItem(new OrderItem($Product));
+# Add a product in the basket / order
+$Basket->AddItem(new OrderItem($Product));
 
-# Get Order Amount / Billing Amount
-$Order->OrderAmount();
+# Get Basket Amount / Billing Amount
+$Basket->Total();
 
-# Get Delivery Charges of an Order
-$Order->GetDeliveryCharges();
+# Get Delivery Charges of an Basket / Order
+$Basket->DeliveryCharges();
 
 # Print Bill
-$Order->Print();
+$Basket->Print();
 ```
